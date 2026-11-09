@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\C#\home_work\home2\obj\Debug\net10.0\home2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\home_work\home2\obj\Debug\net10.0\home2.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\home_work\home2\obj\Debug\net10.0\home2.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\home_work\home2\obj\Debug\net10.0\home2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\home_work\home2\bin\Debug\net10.0\home2.exe
+C:\Users\PC\Desktop\C#\home_work\home2\bin\Debug\net10.0\home2.deps.json
+C:\Users\PC\Desktop\C#\home_work\home2\bin\Debug\net10.0\home2.runtimeconfig.json
+C:\Users\PC\Desktop\C#\home_work\home2\bin\Debug\net10.0\home2.dll
+C:\Users\PC\Desktop\C#\home_work\home2\bin\Debug\net10.0\home2.pdb
+C:\Users\PC\Desktop\C#\home_work\home2\obj\Debug\net10.0\home2.dll
+C:\Users\PC\Desktop\C#\home_work\home2\obj\Debug\net10.0\refint\home2.dll
+C:\Users\PC\Desktop\C#\home_work\home2\obj\Debug\net10.0\home2.pdb
+C:\Users\PC\Desktop\C#\home_work\home2\obj\Debug\net10.0\home2.genruntimeconfig.cache
+C:\Users\PC\Desktop\C#\home_work\home2\obj\Debug\net10.0\ref\home2.dll
